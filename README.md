@@ -11,6 +11,43 @@ A full-stack task management application with role-based access control. Users c
 - 🎛️ Admin dashboard to view and manage all users' tasks
 - 🎨 Modern responsive UI with dark theme
 
+## Screenshots
+
+### Task Management
+
+<p align="center">
+  <img src="frontend/public/imgs/tasks-dashboard.png" alt="Task Dashboard" width="100%" />
+</p>
+<p align="center"><em>User task dashboard with status tracking and filtering</em></p>
+
+### Admin Features
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="frontend/public/imgs/admin-dashboard.png" alt="Admin Dashboard" />
+      <p align="center"><em>Admin overview with user statistics</em></p>
+    </td>
+    <td width="50%">
+      <img src="frontend/public/imgs/tasks-for-admin.png" alt="Tasks for Admin" />
+      <p align="center"><em>Admin view of all tasks</em></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="frontend/public/imgs/admin-user-detail.png" alt="User Detail View" />
+      <p align="center"><em>Detailed view of user's tasks</em></p>
+    </td>
+    <td width="50%">
+      <img src="frontend/public/imgs/light-mode.png" alt="Light Mode" />
+      <p align="center"><em>Light theme support</em></p>
+    </td>
+  </tr>
+</table>
+
 ## Prerequisites
 
 - **Node.js**: Version 18 or higher

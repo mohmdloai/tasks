@@ -1,0 +1,63 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Build output
+dist/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+
+# Logs
+logs/
+*.log
+
+# Documentation
+README.md
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose*.yml
+
+# Development files
+.editorconfig
+.prettierrc
+.eslintrc*
+eslint.config.js
+
+# Vite
+vite.config.ts.timestamp-*
+
+# TypeScript
+tsconfig.json
+tsconfig.*.json
+
+# Misc
+*.md
